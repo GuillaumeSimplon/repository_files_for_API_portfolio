@@ -3,10 +3,10 @@
         {
             "title": "Hello to you !",
             "subtitle": "I'm a creative developer",
-            "about": "“ Transform your ideas into unique visual experiences “"
+            "teaser": "“ Transform your ideas into unique visual experiences “"
         }
     ],
-    "skill": [
+    "skills": [
         {
             "teaser": "Coding is like drawing. Each line has its importance, every detail matters."
         },
