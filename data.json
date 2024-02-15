@@ -1,0 +1,42 @@
+{
+    "main": [
+        {
+            "title": "Hello to you !",
+            "subtitle": "I'm a creative developer",
+            "about": "“ Transform your ideas into unique visual experiences “"
+        }
+    ],
+    "services": [
+        {
+            "title": "Front-End Web Development :",
+            "description": [
+                "Responsive website design: Creation of websites optimised for a fluid user experience on all devices.",
+                "HTML/CSS integration: Transformation of graphic models into clean, efficient HTML/CSS code.",
+                "JavaScript development: Adding interactive and dynamic functionalities using libraries or frameworks such as React or Vue.js."
+            ]
+        },
+        {
+            "title": "Graphic design :",
+            "description": [
+                "Memorable Logos: Create a lasting first impression with distinctive logos that reflect the unique essence of your brand.",
+                "Dazzling UI: Enhance the visual appeal of your site with carefully designed graphic elements, ensuring a memorable user experience.",
+                "Visual Prototypes: Visualise the future of your project with striking mock-ups and prototypes, allowing you to fine-tune every detail before the big launch."
+            ]
+        },
+        {
+            "title": "Drawing and Illustration :",
+            "description": [
+                "Bespoke Art: Turn your ideas into personalised works of art, whether for web illustrations, portraits or character designs.",
+                "Unlimited Creativity: Bring a unique touch to your project with illustrations and drawings that captivate and inspire.",
+                "Visual Personality: Bring your content to life with original characters that add a visual and narrative dimension to your story."
+            ]
+        },
+        {
+            "title": "Creativity and Consulting :",
+            "description": [
+                "Targeted Design: Maximise your brand's impact with design and user experience consultancy, optimising every interaction.",
+                "Powerful Visual Identity: Create a strong, memorable brand identity that stands out from the competition."
+            ]
+        }
+    ]
+}
