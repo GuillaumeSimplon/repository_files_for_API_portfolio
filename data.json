@@ -14,14 +14,14 @@
             "skillTable": [
                 {
                     "title": "CodeCraft",
-                    "tool": [
+                    "tools": [
                         "Github",
                         "Tailwind"
                     ]
                 },
                 {
                     "title": "Frameworks",
-                    "tool": [
+                    "tools": [
                         "Next.js / React",
                         "Vue.js",
                         "Symfony",
@@ -30,7 +30,7 @@
                 },
                 {
                     "title": "Code",
-                    "tool": [
+                    "tools": [
                         "Javascript",
                         "Typescript",
                         "SQL",
@@ -39,7 +39,7 @@
                 },
                 {
                     "title": "Design",
-                    "tool": [
+                    "tools": [
                         "Illustrator",
                         "Photoshop",
                         "Figma",
