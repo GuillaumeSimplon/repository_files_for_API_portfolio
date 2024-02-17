@@ -15,36 +15,78 @@
                 {
                     "title": "CodeCraft",
                     "tools": [
-                        "Github",
-                        "Tailwind"
-                    ]
+                        {
+                          "name": "Github",
+                          "icon": "Skills_Github.svg"
+                        },
+                        {
+                          "name": "Tailwind",
+                          "icon": "Skills_Tailwind.svg"
+                        }
+                      ]
                 },
                 {
                     "title": "Frameworks",
                     "tools": [
-                        "Next.js / React",
-                        "Vue.js",
-                        "Symfony",
-                        "Wordpress"
-                    ]
+                        {
+                          "name": "Next.js / React",
+                          "icon": "Skills_React.svg"
+                        },
+                        {
+                          "name": "Vue.js",
+                          "icon": "Skills_Vue.svg"
+                        },
+                        {
+                          "name": "Symfony",
+                          "icon": "Skills_Symfony.svg"
+                        },
+                        {
+                          "name": "Wordpress",
+                          "icon": "Skills_Wordpress.svg"
+                        }
+                      ]
                 },
                 {
                     "title": "Code",
                     "tools": [
-                        "Javascript",
-                        "Typescript",
-                        "SQL",
-                        "PHP"
-                    ]
+                        {
+                          "name": "Javascript",
+                          "icon": "Skills_JavaScript.svg"
+                        },
+                        {
+                          "name": "Typescript",
+                          "icon": "Skills_TypeScript.svg"
+                        },
+                        {
+                          "name": "SQL",
+                          "icon": "Skills_SQL.svg"
+                        },
+                        {
+                          "name": "PHP",
+                          "icon": "Skills_PHP.svg"
+                        }
+                      ]
                 },
                 {
                     "title": "Design",
                     "tools": [
-                        "Illustrator",
-                        "Photoshop",
-                        "Figma",
-                        "Sketchup"
-                    ]
+                        {
+                          "name": "Illustrator",
+                          "icon": "Skills_Illustrator.svg"
+                        },
+                        {
+                          "name": "Photoshop",
+                          "icon": "Skills_Photoshop.svg"
+                        },
+                        {
+                          "name": "Figma",
+                          "icon": "Skills_Figma.svg"
+                        },
+                        {
+                          "name": "Sketchup",
+                          "icon": "Skills_Sketchup.svg"
+                        }
+                      ]
                 }
             ]
         }
