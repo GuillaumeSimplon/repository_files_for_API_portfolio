@@ -17,13 +17,11 @@
                     "tools": [
                         {
                           "name": "Github",
-                          "icon": "Skills_Github.svg",
-                          "fontClass": "icon-Skills_Github"
+                          "icon": "Skills_Github.svg"
                         },
                         {
                           "name": "Tailwind",
-                          "icon": "Skills_Tailwind.svg",
-                          "fontClass": "icon-Skills_Tailwind"
+                          "icon": "Skills_Tailwind.svg"
                         }
                       ]
                 },
@@ -32,23 +30,19 @@
                     "tools": [
                         {
                           "name": "Next.js / React",
-                          "icon": "Skills_React.svg",
-                          "fontClass": "icon-Skills_React"
+                          "icon": "Skills_React.svg"
                         },
                         {
                           "name": "Vue.js",
-                          "icon": "Skills_Vue.svg",
-                          "fontClass": "icon-Skills_Vue"
+                          "icon": "Skills_Vue.svg"
                         },
                         {
                           "name": "Symfony",
-                          "icon": "Skills_Symfony.svg",
-                          "fontClass": "icon-Skills_Symfony"
+                          "icon": "Skills_Symfony.svg"
                         },
                         {
                           "name": "Wordpress",
-                          "icon": "Skills_Wordpress.svg",
-                          "fontClass": "icon-Skills_Wordpress"
+                          "icon": "Skills_Wordpress.svg"
                         }
                       ]
                 },
@@ -57,23 +51,19 @@
                     "tools": [
                         {
                           "name": "Javascript",
-                          "icon": "Skills_JavaScript.svg",
-                          "fontClass": "icon-Skills_JavaScript"
+                          "icon": "Skills_JavaScript.svg"
                         },
                         {
                           "name": "Typescript",
-                          "icon": "Skills_TypeScript.svg",
-                          "fontClass": "icon-Skills_TypeScript"
+                          "icon": "Skills_TypeScript.svg"
                         },
                         {
                           "name": "SQL",
-                          "icon": "Skills_SQL.svg",
-                          "fontClass": "icon-Skills_SQL"
+                          "icon": "Skills_SQL.svg"
                         },
                         {
                           "name": "PHP",
-                          "icon": "Skills_PHP.svg",
-                          "fontClass": "icon-Skills_PHP"
+                          "icon": "Skills_PHP.svg"
                         }
                       ]
                 },
@@ -82,23 +72,19 @@
                     "tools": [
                         {
                           "name": "Illustrator",
-                          "icon": "Skills_Illustrator.svg",
-                          "fontClass": "icon-Skills_Illustrator"
+                          "icon": "Skills_Illustrator.svg"
                         },
                         {
                           "name": "Photoshop",
-                          "icon": "Skills_Photoshop.svg",
-                          "fontClass": "icon-Skills_Photoshop"
+                          "icon": "Skills_Photoshop.svg"
                         },
                         {
                           "name": "Figma",
-                          "icon": "Skills_Figma.svg",
-                          "fontClass": "icon-Skills_Figma"
+                          "icon": "Skills_Figma.svg"
                         },
                         {
                           "name": "Sketchup",
-                          "icon": "Skills_Sketchup.svg",
-                          "fontClass": "icon-Skills_Sketchup"
+                          "icon": "Skills_Sketchup.svg"
                         }
                       ]
                 }
