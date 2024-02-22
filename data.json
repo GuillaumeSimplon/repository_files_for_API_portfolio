@@ -93,41 +93,45 @@
   ],
   "services": [
     {
-      "teaser": "Transformez vos idées en réalité numérique avec nos services sur mesure."
+      "teaser": "Transform your ideas into digital reality with our tailored services."
     },
     {
-      "title": "Développement Web Front-End :",
-      "icon": "Services_Dev.svg",
-      "description": [
-        "Design de site Web responsive : Création de sites Web optimisés pour une expérience utilisateur fluide sur tous les appareils.",
-        "Intégration HTML/CSS : Transformation de modèles graphiques en code HTML/CSS propre et efficace.",
-        "Développement JavaScript : Ajout de fonctionnalités interactives et dynamiques à l'aide de bibliothèques ou de frameworks tels que React ou Vue.js."
-      ]
-    },
-    {
-      "title": "Design Graphique :",
-      "icon": "Services_Design.svg",
-      "description": [
-        "Logos mémorables : Créez une première impression durable avec des logos distinctifs qui reflètent l'essence unique de votre marque.",
-        "UI éblouissante : Améliorez l'attrait visuel de votre site avec des éléments graphiques soigneusement conçus, assurant une expérience utilisateur mémorable.",
-        "Prototypes visuels : Visualisez l'avenir de votre projet avec des maquettes et des prototypes frappants, vous permettant d'affiner chaque détail avant le grand lancement."
-      ]
-    },
-    {
-      "title": "Dessin et Illustration :",
-      "icon": "Services_Illustration.svg",
-      "description": [
-        "Art sur mesure : Transformez vos idées en œuvres d'art personnalisées, que ce soit pour des illustrations web, des portraits ou des designs de personnages.",
-        "Créativité illimitée : Apportez une touche unique à votre projet avec des illustrations et des dessins qui captivent et inspirent.",
-        "Personnalité visuelle : Donnez vie à votre contenu avec des personnages originaux qui ajoutent une dimension visuelle et narrative à votre histoire."
-      ]
-    },
-    {
-      "title": "Créativité et Conseil :",
-      "icon": "Services_Creativity.svg",
-      "description": [
-        "Design ciblé : Maximisez l'impact de votre marque avec des conseils en design et expérience utilisateur, optimisant chaque interaction.",
-        "Identité visuelle puissante : Créez une identité de marque forte et mémorable qui se démarque de la concurrence."
+      "servicesTable": [
+        {
+          "title": "Front-End Web Development :",
+          "icon": "Services_Dev.svg",
+          "description": [
+            "Responsive website design: Creation of websites optimised for a fluid user experience on all devices.",
+            "HTML/CSS integration: Transformation of graphic models into clean, efficient HTML/CSS code.",
+            "JavaScript development: Adding interactive and dynamic functionalities using libraries or frameworks such as React or Vue.js."
+          ]
+        },
+        {
+          "title": "Graphic design :",
+          "icon": "Services_Design.svg",
+          "description": [
+            "Memorable Logos: Create a lasting first impression with distinctive logos that reflect the unique essence of your brand.",
+            "Dazzling UI: Enhance the visual appeal of your site with carefully designed graphic elements, ensuring a memorable user experience.",
+            "Visual Prototypes: Visualise the future of your project with striking mock-ups and prototypes, allowing you to fine-tune every detail before the big launch."
+          ]
+        },
+        {
+          "title": "Drawing and Illustration :",
+          "icon": "Services_Illustration.svg",
+          "description": [
+            "Bespoke Art: Turn your ideas into personalised works of art, whether for web illustrations, portraits or character designs.",
+            "Unlimited Creativity: Bring a unique touch to your project with illustrations and drawings that captivate and inspire.",
+            "Visual Personality: Bring your content to life with original characters that add a visual and narrative dimension to your story."
+          ]
+        },
+        {
+          "title": "Creativity and Consulting :",
+          "icon": "Services_Creativity.svg",
+          "description": [
+            "Targeted Design: Maximise your brand's impact with design and user experience consultancy, optimising every interaction.",
+            "Powerful Visual Identity: Create a strong, memorable brand identity that stands out from the competition."
+          ]
+        }
       ]
     }
   ],
