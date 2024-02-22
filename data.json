@@ -142,26 +142,34 @@
     {
       "projectsTable": [
         {
+          "icon": "Projects_SpaceTrip.svg",
           "title": "SpaceTrip",
           "tools": "Symfony, Twig, CSS, JavaScript",
+          "img": "Spacetrip.jpg",
           "Description": "This slightly eccentric project is a vision of what a site booking travel to one of the 8 Mars stations run by the company 'SpaceTrip' could offer. Users are invited to find out about activities and places related to the discovery of Mars. They can then log in to access their dashboard, which they can update, and the travel booking page. They can then select different criteria to personalise their trip. The aim was to create an application with a DBMS on the back-end. I used MySQL and Doctrine. The project offers server-side rendering and the whole thing is dynamised with vanilla JavaScript.",
           "Challenges": "The biggest challenge of this project was undoubtedly being able to display static and dynamic content in a fluid way. Using Twig, which is a server-side rendering engine, made the experience a little slower and we had to optimise images, resource compression and server-side caching in order to speed up view loading."
         },
         {
+          "icon": "Projects_Epicerise.svg",
           "title": "L'Épicerise",
           "tools": "Symfony, Next.js, SCSS,",
+          "img": "Epicerise.jpg",
           "Description": "This project was an E-commerce site developed during my web developer training. The goal was to create an application for selling grocery products using the CRUD method and API calls. As a team of three working on this project, we divided tasks to develop the necessary features within the given timeframe. The project included a dynamic search bar, product categories, and a complete user journey for a shopping cart, including the payment method.",
           "Challenges": "One of the most challenging aspects was integrating a PHP back-end framework with a JavaScript front-end framework, especially dealing with asynchronous communication between the two. We utilized REST APIs to address this. The routing systems also differed between the frameworks, and we had to configure them by adhering to a strict naming convention. On the back-end, we used controllers, while on the front-end, we defined routes using useRouter."
         },
         {
+          "icon": "Projects_Novus.svg",
           "title": "Novus",
           "tools": "WordPress",
+          "img": "Novus.jpg",
           "Description": "This project is an online digital comic book E-commerce platform. It revolves around my Novus project: a narrative set in an imperial hegemony where non-belief is penalized. In this fantastical, baroque-style universe filled with magic and occult forces, the main character strives to dismantle economic, social, and political disparities. The narrative is enriched with a romantic relationship entwined in epic battles.",
           "Challenges": "Being my first website project developed with a Content Management System (CMS), I faced challenges primarily due to being self-taught and not yet fully acquainted with web languages."
         },
         {
+          "icon": "Projects_CosiImmo.svg",
           "title": "Cosi-Immo",
           "tools": "Vue.js",
+          "img": "Cosi_immo.jpg",
           "Description": "This entirely client-side project was an application designed for a real estate developer. The goal was to create an application for purchasing or estimating various types of real estate, including houses or apartments. The application featured a multi-question system providing diverse options such as apartment type, size, number of bedrooms, budget range, locations via the Google API, and more. The ultimate objective was to submit these requests through the sending of a summary email and the generation of a PDF file consolidating all the information provided by the user.",
           "Challenges": "With no need to manage the server-side of the project, particularly a database, the primary challenge lay in establishing a robust form validation approach. It required linking fields according to Vue.js's built-in directives. Adding conditions, displaying error messages, all of this prior to validation. Considering the comprehensive nature of the form, maintaining a clear convention was crucial for efficiently retrieving all the values selected by the user."
         }
